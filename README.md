@@ -1,6 +1,14 @@
 # hfs-web
 
-## License
+## 如何运行
+1. `git clone https://github.com/YiCorleone/hfs-web.git`
+2. `cd hfs-web`
+3. 安装依赖的库:
+`pip install -r requirements.txt`
+4. 运行:
+`python run.py`
+
+## 许可证
 ```
 Copyright 2016 Yuanzhe Yi
 
